@@ -23,26 +23,25 @@ GET https://jsonplaceholder.typicode.com/users
 
 ---
 
-## 📸 Screenshots
+### 📸 Screenshots
 
-<p align="center">
-  <div align="center">
-    <img src="assets/screenshots/home.png" width="200"/><br>
-    <strong>🏠 Home Page</strong>
-  </div>
-  <div align="center" style="margin: 0 20px;">
-    <img src="assets/screenshots/user_detail.png" width="200"/><br>
-    <strong>ℹ️ User Detail Page</strong>
-  </div>
-  <div align="center">
-    <img src="assets/screenshots/add_user.png" width="200"/><br>
-    <strong➕ Add User Page</strong>
-  </div>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets/screenshots/HomePage.jpg" width="200"/><br>
+      <strong>🏠 Home Page</strong>
+    </td>
+    <td align="center">
+      <img src="assets/screenshots/UserDetailsPage.jpg" width="200"/><br>
+      <strong>ℹ️ User Detail Page</strong>
+    </td>
+    <td align="center">
+      <img src="assets/screenshots/AddUserPage.jpg" width="200"/><br>
+      <strong>➕ Add User Page</strong>
+    </td>
+  </tr>
+</table>
 
-
-
-> Make sure the screenshots are placed in `assets/screenshots/` folder.
 
 ---
 
