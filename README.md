@@ -67,8 +67,8 @@ GET https://jsonplaceholder.typicode.com/users
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/flutter-user-app.git
-cd flutter-user-app
+https://github.com/DeepaKumawat89/SeekHelpers_Assignment.git
+cd SeekHelpers_Assignment
 
 # Install dependencies
 flutter pub get
